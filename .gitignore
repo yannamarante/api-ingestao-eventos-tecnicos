@@ -1,0 +1,22 @@
+﻿# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente (NUNCA subir)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
